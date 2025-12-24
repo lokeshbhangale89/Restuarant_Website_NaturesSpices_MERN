@@ -1,3 +1,5 @@
+> **Note:** This project was developed as part of my internship and is intended to showcase my skills in real-world application development.
+
 **Restaurant Website — Natures Spices**
 
 - **Project type:** Full-stack restaurant web app (React + Express)
